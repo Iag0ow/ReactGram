@@ -1,0 +1,16 @@
+.photo-item img {
+  width: 90%;
+  max-height: 500px;
+}
+
+#home .photo-item h2 {
+  margin-bottom: 0.2em;
+}
+
+.photo-author {
+  text-align: left;
+}
+
+.photo-author a {
+  font-weight: bold;
+}
